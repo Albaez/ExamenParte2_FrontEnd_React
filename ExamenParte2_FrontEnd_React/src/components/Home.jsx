@@ -5,7 +5,7 @@ export const Home = () => {
     <>
         <div className='container'>
 
-            <h1>Nominaciones al Oscar</h1>
+      <h1>Nominaciones al Oscar</h1>
 
       <section className='mt-5'>
         Repasamos la lista con todos los nominados a los Premios Oscar 2024, los grandes galardones de Hollywood que se entregarán la noche del domingo 10 de marzo.
